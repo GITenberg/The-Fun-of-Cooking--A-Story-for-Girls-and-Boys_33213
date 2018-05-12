@@ -1,0 +1,30 @@
+_repo: The-Fun-of-Cooking--A-Story-for-Girls-and-Boys_33213
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Sarah K.
+    gutenberg_agent_id: '36265'
+    url: http://www.gutenberg.org/2009/agents/36265
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benton, Caroline French
+    alias: Burrell, Caroline Frances Benedict
+    gutenberg_agent_id: '6759'
+    url: http://www.gutenberg.org/2009/agents/6759
+description: ''
+gutenberg_issued: '2010-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking -- Juvenile literature'
+title: 'The Fun of Cooking: A Story for Girls and Boys'
+url: http://www.gutenberg.org/ebooks/33213
