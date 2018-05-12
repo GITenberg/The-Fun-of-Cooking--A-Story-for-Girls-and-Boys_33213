@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '6759'
     url: http://www.gutenberg.org/2009/agents/6759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33213#The-Fun-of-Cooking--A-Story-for-Girls-and-Boys
 gutenberg_issued: '2010-07-21'
 gutenberg_type: Text
 identifiers:
